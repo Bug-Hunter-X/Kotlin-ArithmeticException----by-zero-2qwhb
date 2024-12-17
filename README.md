@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin: the `ArithmeticException: / by zero`.  The `bug.kt` file shows the error, while `bugSolution.kt` provides a solution using exception handling.  This is a crucial concept for writing reliable Kotlin applications that gracefully handle potential errors.
